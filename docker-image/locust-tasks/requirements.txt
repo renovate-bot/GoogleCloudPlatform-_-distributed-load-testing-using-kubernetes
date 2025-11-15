@@ -2,7 +2,7 @@ Brotli==1.0.9
 certifi==2021.10.8
 chardet==4.0.0
 charset-normalizer==2.0.12
-click==8.1.2
+click==8.3.1
 ConfigArgParse==1.5.3
 Flask==2.1.1
 Flask-BasicAuth==0.2.0
